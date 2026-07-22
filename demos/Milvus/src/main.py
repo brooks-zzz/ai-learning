@@ -115,7 +115,7 @@ def rag_search(user_query: str):
 
 if __name__ == "__main__":
     #
-    rag_search("bk喜欢吃什么")
+    rag_search("有什么鱼？")
     # set_collection("demo_collection")
     #
     #test insert

@@ -214,5 +214,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+
+员工手册.pdf
+
+
+
+
 # Streamlit
 .streamlit/secrets.toml
+员工手册.pdf
